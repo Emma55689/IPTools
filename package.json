@@ -1,6 +1,6 @@
 {
   "name": "big-iptools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Abstract:\r #BigIP Toolis a tool written on python and using the grako (an EBNF parser generator) which is able to understand F5 exported config files.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/martensyy/websocketutil"
+    "url": "https://github.com/Emma55689/IPTools.git"
   },
   "keywords": [],
   "author": "",

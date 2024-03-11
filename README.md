@@ -1,4 +1,4 @@
-#BigIPTool Documentation
+#IPTool Documentation
 
 Abstract:
 #BigIP Toolis a tool written on python and using the grako (an EBNF parser generator) which is able to understand F5 exported config files.
